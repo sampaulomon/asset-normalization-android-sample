@@ -1,4 +1,4 @@
-package asset_normalization_android_sample.turvo.com.asset_normalization_android_sample
+package asset_normalization_android_sample.turvo.com.assetnormalizationandroidsample
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("asset_normalization_android_sample.turvo.com.asset_normalization_android_sample", appContext.packageName)
+        assertEquals("asset_normalization_android_sample.turvo.com.assetnormalizationandroidsample", appContext.packageName)
     }
 }

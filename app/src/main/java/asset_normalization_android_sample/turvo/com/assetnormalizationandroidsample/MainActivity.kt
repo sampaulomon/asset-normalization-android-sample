@@ -1,4 +1,4 @@
-package asset_normalization_android_sample.turvo.com.asset_normalization_android_sample
+package asset_normalization_android_sample.turvo.com.assetnormalizationandroidsample
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle

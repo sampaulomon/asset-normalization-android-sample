@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="asset_normalization_android_sample.turvo.com.asset_normalization_android_sample.MainActivity">
+    tools:context="asset_normalization_android_sample.turvo.com.assetnormalizationandroidsample.MainActivity">
 
     <TextView
         android:layout_width="wrap_content"

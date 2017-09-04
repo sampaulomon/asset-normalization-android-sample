@@ -8,7 +8,7 @@ android {
     compileSdkVersion 'android-O'
     buildToolsVersion "26.0.0"
     defaultConfig {
-        applicationId "asset_normalization_android_sample.turvo.com.asset_normalization_android_sample"
+        applicationId "asset_normalization_android_sample.turvo.com.assetnormalizationandroidsample"
         minSdkVersion 'O'
         targetSdkVersion 'O'
         versionCode 1

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="asset_normalization_android_sample.turvo.com.asset_normalization_android_sample">
+    package="asset_normalization_android_sample.turvo.com.assetnormalizationandroidsample">
 
     <application
         android:allowBackup="true"
